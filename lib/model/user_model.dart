@@ -1,0 +1,13 @@
+class User {
+  final int userId;
+  final int id;
+  final String title;
+  final String body;
+
+  User(
+    this.userId,
+    this.id,
+    this.title,
+    this.body,
+  );
+}
